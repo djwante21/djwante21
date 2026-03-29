@@ -25,7 +25,7 @@ Una plataforma web que promueve la conciencia ambiental mediante el **intercambi
 - Lenguajes: `PHP`, `Python`, `JavaScript`
 - Bases de datos: `SQL Server`, `PostgreSQL`, `MySQL`
 - Frameworks: `Flask`, `Bootstrap`, `Tailwind`
-- Herramientas: `Visual Studio Code`, `XAMPP`, `Docker`, `Git & GitHub`
+- Herramientas: `Visual Studio Code`, `XAMPP`, `Docker`, `Git & GitHub`, power apps
 
 ---
 
@@ -40,9 +40,9 @@ Una plataforma web que promueve la conciencia ambiental mediante el **intercambi
 
 ## 📬 Conéctate conmigo
 
-- ✉️ Email: **[tu correo aquí]**
-- 🌐 Portafolio (en desarrollo): [enlace a futuro]
-- 💬 LinkedIn: [tu perfil si lo tienes]
+- ✉️ Email: **djwante@gmail.com**
+- 🌐 Portafolio (en desarrollo): Ecoconciencua
+- 💬 LinkedIn: luis david ortega murillo
 
 ---
 
